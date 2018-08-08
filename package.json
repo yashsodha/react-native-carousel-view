@@ -1,6 +1,6 @@
 {
   "name": "react-native-carousel-view",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "react-native carousel",
   "main": "./src/carousel.js",
   "directories": {
