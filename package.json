@@ -13,7 +13,6 @@
   "author": "chilijung <chilijung@gmail.com> (http://lijung.com/)",
   "license": "MIT",
   "devDependencies": {
-    "@react-native-community/viewpager": "^2.0.2",
     "babel-cli": "^6.24.1",
     "babel-eslint": "^7.2.3",
     "babel-preset-react-native": "^2.1.0",
@@ -24,6 +23,7 @@
   },
   "dependencies": {
     "react-mixin": "^3.0.5",
+    "@react-native-community/viewpager": "^2.0.2",
     "react-timer-mixin": "^0.13.3"
   }
 }
